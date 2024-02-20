@@ -4,7 +4,8 @@ import { TypeAnimation } from "react-type-animation";
 import Link from "next/link";
 import { motion } from "framer-motion";
 
-const link = "https://drive.google.com/file/d/1-DBdVNic66sM5fZFig7n-jax4fkDwi9X/view?usp=sharing"
+const link =
+  "https://drive.google.com/file/d/1-DBdVNic66sM5fZFig7n-jax4fkDwi9X/view?usp=sharing";
 
 const HeroSection = () => {
   return (
@@ -41,7 +42,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7DBE] text-base sm:text-sm sm:w-60 lg:w-auto mb-6 lg:text-xl">
+          <p className="text-[#ADB7DB] text-base sm:text-sm sm:w-60 lg:w-auto mb-6 lg:text-xl">
             I enjoy writing code, playing sports, playing video games, spending
             time with my loved ones and I drink a lot of mate 🧉🇦🇷.
           </p>
