@@ -10,9 +10,9 @@ const projectsData = [
     title: "React Portfolio WebSite",
     description: "React website",
     image: "/images/projects/1.png",
-    gitUrl: "/",
+    gitUrl: "https://github.com/Estebanlun/estebanluna-app",
     tag: ["All", "Web", "Mobile"],
-    previewUrl: "/",
+    previewUrl: "https://youtu.be/uCF3G5U7ZxQ",
   },
   {
     id: 2,
@@ -21,8 +21,8 @@ const projectsData = [
       "SPA (Single Page Application) on sale of real flights. Developed with ReactJS on the Front-end, with NodeJS and Express on the Back-end and with a non-SQL Firebase database. In it, I mainly worked on the Front-end. We use Sass and other tools to style it. This project helped me a lot to learn to work as a team. It enriched my communication, and helped me reaffirm my technical knowledge.",
     image: "/images/projects/2.png",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Grupo2PF/Proyecto-Final",
+    previewUrl: "https://dev-sky.vercel.app/",
   },
   {
     id: 3,
@@ -31,8 +31,8 @@ const projectsData = [
       "SPA (Single Page Application) about countries. Developed with ReactJS, Redux on the Front-end, with NodeJS, Express and Sequalize on the Back-end. And for the database use PostgresSQL. This project was a real challenge, I spent hours and hours looking for solutions to all the problems that arose. I did it alone, something that gave me confidence and allowed me to consolidate my technical knowledge and everything I learned during my course.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Estebanlun/PI-Estebanlun",
+    previewUrl: "https://www.youtube.com/watch?v=3FAH4ZKn-Kw&t=21s",
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ const projectsData = [
       "Updated portfolio page, made with NextJs, Tailwind and deployed with Firebase.",
     image: "/images/projects/4.png",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Estebanlun/esteban-app",
     previewUrl: "/",
   },
 ];
