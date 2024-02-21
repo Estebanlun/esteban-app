@@ -24,6 +24,11 @@ const achievementsList = [
     metric: "Years",
     value: "2",
   },
+  {
+    metric: "English Level",
+    prefix: "B",
+    value: "1",
+  },
 ];
 
 const AchievementsSection = () => {
