@@ -47,9 +47,10 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Economic Science 2020</li>
+        <li>Software Development and Quality 2024 - Actually</li>
+        <li>Economic Science 2020-2024 (Unfinished)</li>
         <li>Fullstack Web Developer - Henry 2021</li>
-        <li>Professional Ontological Coach - Trascender 2020</li>
+        <li>Professional Ontological Coach - Trascender 2020 - 2022</li>
       </ul>
     ),
   },
@@ -90,7 +91,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             I&apos;am a full stack web developer with a passion for creating
             interactive and responsive web applications. I have experience in
-            javascript, working in groups and collaborating in a team..
+            javascript, working in groups and collaborating in a team.
             I&apos;am a quick learner and always looking to expand my knowledge
             and skill set. I&apos;m a good partner, excited to work with others
             to create amazing apps.
