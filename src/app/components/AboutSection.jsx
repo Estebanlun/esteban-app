@@ -47,7 +47,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Software Development and Quality 2024 - Actually</li>
+        <li>Software Development and Quality 2024 - Present</li>
         <li>Economic Science 2020-2024 (Unfinished)</li>
         <li>Fullstack Web Developer - Henry 2021</li>
         <li>Professional Ontological Coach - Trascender 2020 - 2022</li>
